@@ -97,7 +97,7 @@ h6 {
 
 @font-face {
   font-family: Cocosignum;
-  src: url(../assets/cocosignum/Cocosignum\ 2/Cocosignum-Corsivo-Italico-Bold-trial.ttf);
+  src: url(/assets/cocosignum/Cocosignum\ 2/Cocosignum-Corsivo-Italico-Bold-trial.ttf);
 }
 
 .header .logo h1 {
